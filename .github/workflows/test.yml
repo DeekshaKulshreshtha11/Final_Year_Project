@@ -1,0 +1,9 @@
+build the car: 
+  script: 
+    - mkdir build
+    - cd build 
+    - touch car.txt
+    - echo "chassis" > car.txt
+    - echo "wheel" > car.txt
+    - echo "wheel" > car.txt
+    
